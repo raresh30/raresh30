@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raresh30
 - 🌱 I’m currently learning GNU/Linux
-- 💞️ I’m looking to collaborate on free software
+- 💞️ I’m looking to create small projects
 - 📫 How to reach me: rares.hanganur@gmail.com
 
 <!---
